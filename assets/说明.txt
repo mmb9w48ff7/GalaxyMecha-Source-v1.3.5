@@ -1,0 +1,2 @@
+本阶段的体素资产全部以 Lua 数据形式放在 scripts/voxeldata/ 下，运行时用 CustomGeometry 生成网格，因此 assets/ 暂时为空。
+后续加入音效、字体、贴图等资源时放在这里，引用时不带 assets/ 前缀。

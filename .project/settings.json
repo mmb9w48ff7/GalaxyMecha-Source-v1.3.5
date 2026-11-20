@@ -1,0 +1,6 @@
+{
+  "$schema": "../schemas/settings.schema.json",
+  "build": {
+    "asset_dirs": ["../assets", "../scripts"]
+  }
+}

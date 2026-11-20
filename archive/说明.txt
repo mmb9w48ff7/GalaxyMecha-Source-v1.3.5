@@ -1,0 +1,5 @@
+这里存放已经下线的旧玩法源码，正式游戏不再打包：
+- old_html_modes/game.js      开放太空模式（陨星银河 v0.2）
+- old_html_modes/survivor.js  星海突围割草模式（v0.3）
+scripts/ 下的 UrhoX Lua 工程目前仍是开放太空模式的实现，将在移植《宇宙银河玩家》时整体替换；
+其中 Layout、VoxelBuilder、PixelIcon、Theme、Util、Save 等通用模块会直接复用。
